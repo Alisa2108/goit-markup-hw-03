@@ -1,0 +1,241 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background: #fff;
+  color: #434455;
+}
+
+.logo-part {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #2e2f42;
+}
+
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #4d5ae5;
+}
+
+.navigation {
+  color: #2e2f42;
+  list-style-type: none;
+}
+
+.nav-items {
+  justify-content: flex-start;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  text-decoration: none;
+}
+
+.nav-items:hover {
+  color: #404bbf;
+}
+.nav-items:focus {
+  color: #404bbf;
+}
+
+.nav-items:active {
+  text-decoration: underline;
+  background: #404bbf;
+}
+
+.address {
+  font-family: "Roboto", sans-serif;
+  list-style-type: none;
+  font-style: normal;
+}
+
+.nav-address {
+  justify-content: flex-start;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+  text-decoration: underline;
+  text-decoration: none;
+}
+
+.nav-address:hover {
+  color: #404bbf;
+}
+.nav-address:focus {
+  color: #404bbf;
+}
+
+.first-section {
+  background-color: #2e2f42;
+}
+
+.main-title {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #fff;
+  background: #2e2f42;
+}
+
+.order-button {
+  font-family: "Roboto", sans-serif;
+  background: #4d5ae5;
+  justify-content: flex-start;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #fff;
+  text-align: center;
+  cursor: pointer;
+}
+.order-button:focus {
+  background: #404bbf;
+}
+
+.order-button:hover {
+  background: #404bbf;
+}
+
+.second-section {
+  background-color: #fff;
+}
+
+.future-title {
+  color: #fff;
+}
+
+.pres-company {
+  list-style-type: none;
+}
+
+.styles-pres-company {
+  background-color: #ffffff;
+}
+
+.second-items-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.text-second-items {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.third-section,
+.fourth-section {
+  background-color: #f4f4fd;
+}
+
+.third-items {
+  background-color: #ffffff;
+}
+
+.decs-company-style {
+  background-color: #ffffff;
+}
+
+.decs-company,
+.decs-portfolio {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
+.team-card {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+  background-color: #ffffff;
+}
+
+.nome {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.job-title {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #434455;
+}
+
+.fourth-section {
+  background-color: #ffffff;
+}
+
+.third-items-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.third-items-text {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.footer-style {
+  background-color: #2e2f42;
+}
+
+.logo-footer-part {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #f4f4fd;
+}
+.logo-footer {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #4d5ae5;
+}
+.text-footer {
+  line-height: 1.5;
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
+}
