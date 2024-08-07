@@ -51,6 +51,7 @@ ul {
 }
 .nav {
   display: flex;
+  align-items: center;
 }
 .logo {
   font-family: "Raleway", sans-serif;
@@ -222,6 +223,7 @@ ul {
 .team-card {
   background-color: #ffffff;
   width: calc((100% - 72px) / 4);
+  border-radius: 0px 0px 4px 4px;
 }
 .team-text-wrap {
   padding: 32px 0;
